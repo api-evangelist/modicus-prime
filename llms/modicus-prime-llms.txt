@@ -1,0 +1,21 @@
+# Modicus Prime
+
+> Modicus Prime builds an AI Management System (AIMS) — enterprise software that gives pharmaceutical companies and CDMOs AI audit readiness through data, model, and control management. Just as a QMS manages quality and a LIMS manages laboratories, AIMS manages the AI lifecycle: AI inventory, validation evidence, datasets and model versions, risk guardrails, technical change history, decision records, traceability, and lifecycle performance monitoring. It integrates with existing QMS and data-science tooling to keep GxP AI systems compliant with FDA, EMA, and other health-authority expectations. Modicus Prime is a Techstars-backed company.
+
+Note: Modicus Prime is enterprise SaaS delivered via demo/onboarding. As of this writing it publishes no public API, developer portal, SDKs, or OpenAPI. This file is generated from the API Evangelist catalog profile.
+
+## Company
+- [Home](https://modicusprime.com/): Modicus Prime — AI Management System for regulated pharma
+- [Book a Demo](https://modicusprime.com/contact): Schedule a demo / request product sheet
+- [Blog / Articles](https://modicusprime.com/blog): Articles and publications on AI governance in GxP
+- [Careers](https://modicus-prime.breezy.hr/): Open roles
+- [LinkedIn](https://www.linkedin.com/company/modicus-prime/): Company updates
+
+## Legal
+- [Terms](https://modicusprime.com/terms): Terms of service
+
+## Code
+- [GitHub](https://github.com/modicusprime): Modicus Prime GitHub organization
+
+## Catalog
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/modicus-prime/refs/heads/main/apis.yml): API Evangelist network profile

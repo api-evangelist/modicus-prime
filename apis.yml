@@ -1,7 +1,27 @@
 aid: modicus-prime
 name: Modicus Prime
-description: Modicus Prime is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Modicus Prime builds an AI Management System (AIMS) — enterprise software that
+  gives pharmaceutical companies and CDMOs AI audit readiness through data, model,
+  and control management. Just as a QMS manages quality and a LIMS manages
+  laboratories, AIMS manages the AI lifecycle: AI inventory, validation evidence,
+  datasets and model versions, risk guardrails, technical change history, decision
+  records, traceability, and lifecycle performance monitoring. It integrates with
+  existing QMS and data-science tooling to keep GxP AI systems compliant with FDA,
+  EMA, and other health-authority expectations. Modicus Prime is Techstars-backed
+  and is trusted by top-50 pharma companies.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://modicusprime.com/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/modicus-prime/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- AI Governance
+- AI Management System
+- Pharmaceutical
+- Life Sciences
+- GxP Compliance
+- Model Validation
+- Quality Management
+- Regulatory
+- Enterprise AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,22 @@ maintainers:
 common:
 - type: Website
   url: https://modicusprime.com/
+- type: Blog
+  url: https://modicusprime.com/blog
+- type: Support
+  url: https://modicusprime.com/contact
+- type: TermsOfService
+  url: https://modicusprime.com/terms
+- type: GitHubOrganization
+  url: https://github.com/modicusprime
+- type: LinkedIn
+  url: https://www.linkedin.com/company/modicus-prime/
+- type: DomainSecurity
+  url: security/modicus-prime-domain-security.yml
+- type: LLMsTxt
+  url: llms/modicus-prime-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
