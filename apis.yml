@@ -10,6 +10,17 @@ description: >-
   existing QMS and data-science tooling to keep GxP AI systems compliant with FDA,
   EMA, and other health-authority expectations. Modicus Prime is Techstars-backed
   and is trusted by top-50 pharma companies.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
